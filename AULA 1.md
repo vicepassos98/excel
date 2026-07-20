@@ -16,7 +16,7 @@
 |---------|---------|---------|-----|
 | Soma | `=SOMA(Intervalo)` | `=SOMA(C3:C7)` | Somar vários números dentro de um ou mais intervalos. |
 
-# Planilha de Vendas
+# (Planilha de Vendas)[https://docs.google.com/spreadsheets/d/1Yj38W8jobApl3GWp2ng0ZbEMOxp1zOxa/export?format=xlsx]
 
 |   | **A** | **B** | **C** | **D** | **E** | **F** | **G** | **H** | **I** |
 |---|-------|----------------------|-----------|-----------|--------|-----------|---------------|------------|------------------|
