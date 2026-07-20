@@ -129,3 +129,28 @@ R$ 30.000
 - **Mediana:** R$ 2.200
 
 Observe que o salário de R$ 30.000 aumenta bastante a média, enquanto a mediana continua representando melhor o valor central do grupo.
+
+
+
+# [Prática – Funções Estatísticas](
+
+|   | **A** | **B** | **C** | **D** | **E** | **F** | **G** | **H** | **I** | **J** | **K** | **L** |
+|---|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|
+| **1** | Vendedores | 01/jun | 02/jun | 03/jun | 04/jun | 05/jun | 06/jun | Total | Média | Mediana | Máximo | Mínimo |
+| **2** | Agamenon | R$ 250,00 | R$ 255,00 | R$ 210,00 | R$ 290,00 | R$ 300,00 | R$ 500,00 | `=SOMA(B2:G2)` | `=MÉDIA(B2:G2)` | `=MEDIANA(B2:G2)` | `=MÁXIMO(B2:G2)` | `=MÍNIMO(B2:G2)` |
+| **3** | Astrogildo | R$ 160,00 | R$ 190,00 | R$ 200,00 | R$ 170,00 | R$ 220,00 | R$ 340,00 | | | | | |
+| **4** | Balbina | R$ 120,00 | R$ 170,00 | R$ 230,00 | R$ 180,00 | R$ 210,00 | R$ 410,00 | | | | | |
+| **5** | Carlota | R$ 290,00 | R$ 220,00 | R$ 250,00 | R$ 320,00 | R$ 325,00 | R$ 240,00 | | | | | |
+| **6** | Ernesto | R$ 200,00 | R$ 270,00 | R$ 220,00 | R$ 210,00 | R$ 330,00 | R$ 260,00 | | | | | |
+| **7** | Melquíades | R$ 220,00 | R$ 230,00 | R$ 300,00 | R$ 250,00 | R$ 400,00 | R$ 490,00 | | | | | |
+| **8** | Osvalda | R$ 230,00 | R$ 240,00 | R$ 190,00 | R$ 200,00 | R$ 420,00 | R$ 400,00 | | | | | |
+| **9** | Penelope | R$ 210,00 | R$ 180,00 | R$ 260,00 | R$ 270,00 | R$ 520,00 | R$ 215,00 | | | | | |
+| **10** | Valmir | R$ 240,00 | R$ 200,00 | R$ 270,00 | R$ 300,00 | R$ 430,00 | R$ 330,00 | | | | | |
+| **11** | Zulmira | R$ 150,00 | R$ 260,00 | R$ 240,00 | R$ 340,00 | R$ 345,00 | R$ 290,00 | | | | | |
+| **12** | Total | `=SOMA(B2:B11)` | | | | | | | | | | |
+| **13** | Média | `=MÉDIA(B2:B11)` | | | | | | | | | | |
+| **14** | Mediana | `=MEDIANA(B2:B11)` | | | | | | | | | | |
+| **15** | Máximo | `=MÁXIMO(B2:B11)` | | | | | | | | | | |
+| **16** | Mínimo | `=MÍNIMO(B2:B11)` | | | | | | | | | | |
+
+> **Objetivo da atividade:** Complete as fórmulas da linha 2 para os demais vendedores (linhas 3 a 11) utilizando a alça de preenchimento. Em seguida, calcule os indicadores gerais das vendas do dia **01/jun** (coluna B) nas linhas 12 a 16.
