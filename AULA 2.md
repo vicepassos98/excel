@@ -132,7 +132,7 @@ Observe que o salário de R$ 30.000 aumenta bastante a média, enquanto a median
 
 
 
-# [Prática – Funções Estatísticas](
+# [Prática – Funções Estatísticas](https://drive.google.com/uc?export=download&id=1YX36CUVwaoiQCw9TH04NQYHBSA1Sbpp3)
 
 |   | **A** | **B** | **C** | **D** | **E** | **F** | **G** | **H** | **I** | **J** | **K** | **L** |
 |---|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|
