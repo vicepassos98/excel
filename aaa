@@ -1,0 +1,45 @@
+O que é informática?
+Sthefany: Informação Matemática
+Mauricia: Informação automática
+Eliana: Informação temática
+Danilo (sapinho): Ferramenta
+Alex: Sistema computadorizado
+Mateus: Ciência da computação
+ 
+A etimologia da palavra, informática vem do Francês, da junção de duas outras palavras Information + automatique: Informação Automatizada. Informática é o estudo da automatização de informação.
+Os computadores surgem com a finalidade de automatizar processos, para torná-los mais rápidos.
+O surgimento dos primeiros computadores modernos se dá entre o final dos anos 1930 e início dos anos 1940, como desdobramento da segunda guerra mundial. O grande desenvolvimento bélico da época acabou demandando um aumento na quantidade de cálculos realizados, sobretudo para duas funções específicas:
+I - Calculo de trajetória balística
+II - Decodificar mensagens criptografadas
+Alan Turing (Britânico)( O Jogo da Imitação, 2014), cria o primeiro computador moderno o "Bombe". Esse computador tinha somente uma função: decodificar as mensagens dos alemães.
+Nos EUA, surge o primeiro computador de uso geral, o ENIAC, criado em 1943 e iniciou seu uso em 1946. Sua capacidade de processamento era de 5000 mil cálculos por segundo.
+O ENIAC realizava 5000 operações por segundo, ou 5khz. Durante o período, além de aumentar a potência milhares de vezes, foi possível diminuir consideravelmente o tamanho dos computadores. Vale ressaltar que, hoje, os computadores, não são somente desktops ou notebooks, mas também smartphones, tablets, Lava e Seca, Smart TVs, Alexa, etc.
+ 
+Hardware e Software
+Hardware é a parte física do computador;
+Software parte intangível do computador, composta pelos programas e sistema operacionais. O hardware sem software é somente peso de papel. E sem os componentes físicos, é impossível os programas rodarem. 
+1.	Hardware:
+a.	Máquina (CPU)
+i.	CPU - Processador: o cérebro do computador, tudo que é feito passa por ele.
+ii.	Placa Mãe: ela serve para conectar os demais componentes internos e também os periféricos.
+iii.	Fonte: transforma a energia doméstica para uma tensão mais baixa (12 V)
+iv.	GPU - Placa vídeo: processa os gráficos do computador. Nos computadores mais simples ela é compartilhada com a CPU.
+v.	Armazenamento: HD (antigo e lento) SSD/NVME (novo e mais rápido). Estocar as informações de arquivos e de programas.(256 GB - 1TB)
+vi.	Memória RAM: memória lógica, onde tudo que você está usando está rodando.(4GB-32GB)
+vii.	Arrefecimento: o objetivo é deixar o computador menos quente. Esse sistema pode ser composto por ventiladores, radiadores ou pastas térmicas.
+b.	Periféricos: Sua função principal é controlar e interagir com o que acontece dentro da CPU (Máquina):
+i.	Vídeo: Monitor, Projetor.
+ii.	Teclado: dar comandos ao computador.
+iii.	Mouse(Rato): complementar o teclado para executar comandos no computador.
+iv.	Interface de áudio: microfone (entrada) e uma caixa de som (saída)
+v.	Impressoras: podem ser convencionais que imprimem papel ou as 3D que vão imprimir objetos em polímeros.
+ 
+2.	Software: 
+a.	BIOS: A BIOS é responsável por conectar e controlar o hardware (componentes físicos), em um nível mais básico.
+b.	Sistema Operacional: O Sistema operacional é responsável por gerenciar o uso de componentes físicos, gerar uma interface gráfica, deixando o ambiente mais amigável, além disso também é o intermediário entre o hardware e os programas
+i.	Windows: desenvolvido pela Microsoft, tendo diversas versões: 98, XP...10 e 11. Ele é o sistema operacional mais utilizado em desktops e notebooks.
+ii.	Linux: Fedora, Mint, Ubuntu, Android. São sistemas leves, e customizáveis. É o sistema mais popular entre Smartphones. Os SOs são gratuitos. 
+iii.	Apple: MacOS e iOS (smartphones).
+c.	Programas/Aplicações: exemplos: Excel, Power Point, Word, notas, calculadora, CorelDraw, AutoCad, Photoshop, Chrome, Minecraft, LoL, The Sims 4.
+*A função do programa varia de acordo com sua finalidade. Mas de forma ampla eles são criados para executar funções específicas, utilizando a capacidade computacional para realizar tarefas mais rapidamente.
+
