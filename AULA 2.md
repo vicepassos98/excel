@@ -3,7 +3,7 @@
 | Função | Fórmula | Exemplo | Uso |
 |---------|----------|----------|-----|
 | Média | `=MÉDIA(Intervalo)` | `=MÉDIA(C3:C7)` | Definir a média aritmética (soma dos valores dividida pela quantidade de elementos) de um intervalo de células. |
-| Mediana | `=MEDIANA(Intervalo)` | `=MEDIANA(C3:C7)` | Calcular a mediana (valor central) de um intervalo de células. |
+| Mediana | `=MED(Intervalo)` | `=MED(C3:C7)` | Calcular a mediana (valor central) de um intervalo de células. |
 | Máximo | `=MÁXIMO(Intervalo)` | `=MÁXIMO(C3:C7)` | Determinar o maior valor de um intervalo de dados. |
 | Mínimo | `=MÍNIMO(Intervalo)` | `=MÍNIMO(C3:C7)` | Determinar o menor valor de um intervalo de dados. |
 
@@ -98,7 +98,7 @@ Logo, a **mediana é 6**.
 ### No Excel
 
 ```excel
-=MEDIANA(C3:C7)
+=MED(C3:C7)
 ```
 
 O Excel organiza automaticamente os valores e retorna o valor central (ou a média dos dois valores centrais, quando houver uma quantidade par de elementos).
