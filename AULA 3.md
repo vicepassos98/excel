@@ -402,7 +402,7 @@ Nesse caso, o operador `>=` é utilizado para verificar se a idade é **maior ou
 
 ---
 
-# PRÁTICA 3
+# [PRÁTICA 3](https://docs.google.com/spreadsheets/d/1CafXz-PD7Q7TW4Xty8Y1SrNj6BcYmLRt/export?format=xlsx&utm_source=chatgpt.com)
 
 # Notas - Excel Completo
 
