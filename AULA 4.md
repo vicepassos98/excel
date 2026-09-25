@@ -113,7 +113,7 @@ A função encontra as linhas em que o produto é **Arroz** e soma os valores co
 
 # Exercício – Análise de Vendas de Veículos
 
-## 3. Tabela de Vendas
+## 3. [Tabela de Vendas] (https://docs.google.com/spreadsheets/d/1rEwuNrEWPxj2_SNKB0jG229wotBfbtlW/export?format=xlsx&utm_source=chatgpt.com)
 
 Considere a tabela abaixo. As letras representam as **colunas do Excel** e os números representam as **linhas**.
 
