@@ -1,4 +1,4 @@
-# Aula 06 – Relacionando Tabelas com PROCV
+# [Aula 06 – Relacionando Tabelas com PROCV](https://docs.google.com/spreadsheets/d/10UjtQC03xkSc34yQyj7iXemyYGzXZZmd/export?format=xlsx&utm_source=chatgpt.com)
 
 ## Objetivos da Aula
 
