@@ -1,4 +1,4 @@
-# Aula – Análise de Crédito no Excel
+# [Aula 5 – Análise de Crédito no Excel](https://docs.google.com/spreadsheets/d/1NUvgRPUETL7ptCu9ZslNEoViUnyUhfnd/export?format=xlsx&utm_source=chatgpt.com)
 
 Nesta aula, vamos utilizar funções **lógicas, financeiras e de busca** para criar uma análise de crédito de clientes.
 
