@@ -1,4 +1,4 @@
-# CONT.SES e SOMASES
+# [AULA 7 - CONT.SES e SOMASES](https://docs.google.com/spreadsheets/d/1Bk7l8qG-9VM8NJkNz-RdYezU1M2kxVIo/export?format=xlsx&utm_source=chatgpt.com)
 
 As funções **CONT.SE** e **SOMASE** permitem trabalhar com **apenas um critério** de pesquisa. Elas são ideais quando precisamos contar ou somar valores levando em consideração apenas uma condição.
 
