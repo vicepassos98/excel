@@ -1,4 +1,4 @@
-# Aula 08 – Funções SE e SES
+# Aula 08 – Funções SE e SES 
 
 ## Objetivos da Aula
 
@@ -160,7 +160,12 @@ A diferença é que a função **SES** deixa a fórmula muito mais limpa.
 
 ---
 
-# Exercício Prático
+# [Prática 8](https://docs.google.com/spreadsheets/d/1qq9yHbUI8CtIPKQHOlyGs5BUxmpO4egn/export?format=xlsx&utm_source=chatgpt.com)
+
+---
+
+
+# Exercício Prático 8.5
 
 Nesta aula iremos automatizar os cálculos de uma empresa de transportes.
 
