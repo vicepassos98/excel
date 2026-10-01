@@ -165,7 +165,7 @@ A diferença é que a função **SES** deixa a fórmula muito mais limpa.
 ---
 
 
-# Exercício Prático 8.5
+# [Prático 8.5](https://docs.google.com/spreadsheets/d/11VQf10wHY3-IyPI8P3KuBnN9c_tiisgw/export?format=xlsx&utm_source=chatgpt.com)
 
 Nesta aula iremos automatizar os cálculos de uma empresa de transportes.
 
