@@ -1,6 +1,6 @@
 # [Aula 9 – Funções ÍNDICE e CORRESP](https://docs.google.com/spreadsheets/d/1EbK7WXWUwfU00-HUyYKQhmktBoP-foR0/export?format=xlsx&utm_source=chatgpt.com)
 
-## Objetivos da Aula
+## [Objetivos da Aula](https://term.ooo/)
 
 Ao final desta aula você será capaz de:
 
