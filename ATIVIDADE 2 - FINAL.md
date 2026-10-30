@@ -3,6 +3,6 @@ Entregar até as 15h30 do dia 3/11
 
 Prova em duplas. Você só pode Conversar com sua Dupla, sem conversa com outras pessoas
 
-Você e sua dupla podem fazer até 4 perguntas ao professor. Use as com sabedoria. 
+Você e sua dupla podem fazer até 5 perguntas ao professor. Use as com sabedoria. 
 
 Boa sorte. Vão Precisar.
